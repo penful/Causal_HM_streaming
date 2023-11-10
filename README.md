@@ -1,2 +1,26 @@
 # Causal_HM_streaming
-Publicly available R code of the paper: Variable selection for hidden Markov models with continuous variables and missing data
+Publicly available example of the R code of the paper: Variable selection for hidden Markov models with continuous variables and missing data
+
+This is a list of the files provided to show the proposal in the paper: *An analysis of the effect of streaming on civic participation through a causal hidden Markov model* written by 
+
+- F. Bartolucci (University of Perugia, IT)
+- D. Favaro (University of Padova, IT)
+- F. Pennoni (University of Milano-Bicocca, IT)
+- D. Sciulli (University of Chieti-Pescara, IT)
+
+
+The code provided as an example was written in R with the following software R version 4.2.2 (2022-10-31)
+
+The files are:
+
+
+## Data 
+
+- data.Rdata: contains some pseudo data used for the illustrative example
+
+## Code and Results
+
+- code_example.R:   description of the pseudo data andestimation of the causal hidden Markov model with post-treatment covariates.
+
+
+
