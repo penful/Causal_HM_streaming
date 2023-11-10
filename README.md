@@ -16,7 +16,7 @@ The files are:
 
 ## Data 
 
-- data.Rdata: contains some pseudo data used for the illustrative example
+- dtt1.Rdata: contains some pseudo data used for the illustrative example
 
 ## Code and Results
 
